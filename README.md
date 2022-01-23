@@ -13,11 +13,14 @@ After successfully helping Maria analyze the data, she is notified by the school
 - How is the district summary affected? \
 The district summary is only slightly affected. Specifically, the **Average Math Score** decreased by 0.1 points, the **% Passing Math** decreased by 0.2%, the **% Passing Reading** decreased by 0.3%, and the **% Overall Passing** decreased by 0.1%.
 
-   - [Old District](https://github.com/dharlerjr/School_District_Analysis/blob/main/Resources/Images/01_District_Summary/old_district_sum.PNG?raw=true)
-   - [New District](https://github.com/dharlerjr/School_District_Analysis/blob/main/Resources/Images/01_District_Summary/new_district_sum.PNG?raw=true)
+   - [Old District Summary](https://github.com/dharlerjr/School_District_Analysis/blob/main/Resources/Images/01_District_Summary/old_district_sum.PNG?raw=true)
+   - [Updated District Summary](https://github.com/dharlerjr/School_District_Analysis/blob/main/Resources/Images/01_District_Summary/new_district_sum.PNG?raw=true)
 
 - How is the school summary affected? \
-As expected, the only row of the school summary that was affected is the **Thomas High School** row. However, out of the 5 highlighted values that were affected (see image below), all 5 were only changed by a few hundreths. Thus, the school summary was not significantly affected. 
+As expected, the only row of the school summary that was affected is the **Thomas High School** row. However, out of the 5 highlighted values that were affected (see images below), all 5 were only changed by a few hundreths. Thus, the school summary was not significantly affected. 
+
+- [Old School Summary](https://github.com/dharlerjr/School_District_Analysis/blob/main/Resources/Images/02_School_Summary/old_school_summary.PNG?raw=true)
+- [Updated School Summary](https://github.com/dharlerjr/School_District_Analysis/blob/main/Resources/Images/02_School_Summary/new_school_summary.PNG?raw=true)
 
 - How does replacing ninth graders' math and reading scores affect Thomas High School's performance relative to the other schools? \
 Despite the updated data, Thomas High still ranks second in **% Overall Passing** relative to the other schools in the district!
