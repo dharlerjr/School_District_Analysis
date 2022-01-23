@@ -13,6 +13,8 @@ After successfully helping Maria analyze the data, she is notified by the school
 - How is the district summary affected? \
 The district summary is only slightly affected. Specifically, the **Average Math Score** decreased by 0.1 points, the **% Passing Math** decreased by 0.2%, the **% Passing Reading** decreased by 0.3%, and the **% Overall Passing** decreased by 0.1%.
 
+! [This is an image] (\Resources\images\01_District_Summary\new_district_summary.png)
+
 - How is the school summary affected? \
 As expected, the only row of the school summary that was affected is the **Thomas High School** row. However, out of the 5 highlighted values that were affected (see image below), all 5 were only changed by a few hundreths. Thus, the school summary was not significantly affected. 
 
