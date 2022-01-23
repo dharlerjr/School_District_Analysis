@@ -27,8 +27,8 @@ Despite the updated data, Thomas High still ranks second in **% Overall Passing*
 
 
 ## Summary
-Four changes in the updated school district analysis inlcude...
-1. a 0.1 point decrease in District **Average Math Score**
-2. a 0.2% decrease in District **% Passing Math**
-3. a 0.3% decrease in District **% Passing Reading**, and
-4. a 0.1% decrease in District **% Overall Passing**.
+Four changes in the updated school district analysis inlcude a...
+1. 0.1 point decrease in District **Average Math Score**
+2. 0.2% decrease in District **% Passing Math**
+3. 0.3% decrease in District **% Passing Reading**, and
+4. 0.1% decrease in District **% Overall Passing**.
