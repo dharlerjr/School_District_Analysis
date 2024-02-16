@@ -22,7 +22,7 @@ Updated District Summary
 
 **How is the school summary affected?**
 
-- As expected, the only row of the school summary that was affected is the **Thomas High School** row.  
+- As expected, the only row of the school summary that was affected is the **Thomas High School** row. Specifically, the **Average Reading Score** increased by 0.1 points, the **% Passing Math** decreased by 0.1%, the **% Passing Reading** decreased 0.3%, and the **% Overall Passing** decreased 0.3%. Therefore, these changes are not very significant.  
 
 Original School Summary
 ![Original District Summary](https://github.com/dharlerjr/School_District_Analysis/blob/main/Resources/Images/02_Original_School_Summary.png)  
