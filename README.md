@@ -3,16 +3,18 @@
 ## Overview of School District Analysis
 
 ### Background
-In this module, we learned how to use Juptyer Notebook and Pandas to help Maria analyze data on student funding and standardized test scores. 
+In this module, we were tasked with assisting Maria, the chief data scientist for a city school district, in analyzing student test score data. Specifically, we used Pandas and Jupyter Notebook to aggregate the student test score data into various formats, enabling us to uncover current patterns and trends which could then be used to drive future school board decisions.
 
 ### Purpose
-After successfully helping Maria analyze the data, she is notified by the school board that the students_complete.csv file shows evidence of academic dishonesty. Specifically, the math and reading grades for 9th graders attending THS have been altered. Consequently, Maria needs us take this new information into account by replacing the altered test scores, then repeat the school district analysis that we already completed while working through the module. We'll see if this new information affects our original analysis. 
+After successfully helping Maria analyze the data, she is notified by the school board that the students_complete.csv file shows evidence of academic dishonesty. It seems that the math and reading scores for 9th-graders attending THS have been altered. Consequently, Maria needs us take this new information into account by replacing the altered test scores, then repeat the school district analysis. We'll see if this new information affects our original analysis. 
 
 ## Results
 
 How is the district summary affected?
 
 - The district summary is only slightly affected. Specifically, the **Average Math Score** decreased by 0.1 points, the **% Passing Math** decreased by 0.2%, the **% Passing Reading** decreased by 0.3%, and the **% Overall Passing** decreased by 0.1%.
+
+![Original District Summary](https://github.com/dharlerjr/School_District_Analysis/blob/main/Resources/Images/01_Original_District_Summary.png)
 
 How is the school summary affected?
 
