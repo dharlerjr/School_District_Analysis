@@ -25,12 +25,15 @@ How is the school summary affected?
 - As expected, the only row of the school summary that was affected is the **Thomas High School** row. 
 
 How does replacing ninth graders' math and reading scores affect Thomas High School's performance relative to the other schools?
+\
 
 **Original School Summary**
 ![Original District Summary](https://github.com/dharlerjr/School_District_Analysis/blob/main/Resources/Images/02_Original_School_Summary.png)
+\
 
 **Updated School Summary**
 ![Original District Summary](https://github.com/dharlerjr/School_District_Analysis/blob/main/Resources/Images/11_Updated_School_Summary.png)
+\
 
 - Despite the updated data, Thomas High still ranks second in **% Overall Passing** relative to the other schools in the district!
 
