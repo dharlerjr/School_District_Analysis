@@ -14,13 +14,23 @@ How is the district summary affected?
 
 - The district summary is only slightly affected. Specifically, the **Average Math Score** decreased by 0.1 points, the **% Passing Math** decreased by 0.2%, the **% Passing Reading** decreased by 0.3%, and the **% Overall Passing** decreased by 0.1%.
 
+**Original District Summary**
 ![Original District Summary](https://github.com/dharlerjr/School_District_Analysis/blob/main/Resources/Images/01_Original_District_Summary.png)
+
+**Updated District Summary**
+![Original District Summary](https://github.com/dharlerjr/School_District_Analysis/blob/main/Resources/Images/10_Updated_District_Summary.png)
 
 How is the school summary affected?
 
-- As expected, the only row of the school summary that was affected is the **Thomas High School** row. However, out of the 5 highlighted values that were affected (see image below), all 5 were only changed by a few hundreths. Thus, the school summary was not significantly affected. 
+- As expected, the only row of the school summary that was affected is the **Thomas High School** row. 
 
 How does replacing ninth graders' math and reading scores affect Thomas High School's performance relative to the other schools?
+
+**Original School Summary**
+![Original District Summary](https://github.com/dharlerjr/School_District_Analysis/blob/main/Resources/Images/02_Original_School_Summary.png)
+
+**Updated School Summary**
+![Original District Summary](https://github.com/dharlerjr/School_District_Analysis/blob/main/Resources/Images/11_Updated_School_Summary.png)
 
 - Despite the updated data, Thomas High still ranks second in **% Overall Passing** relative to the other schools in the district!
 
