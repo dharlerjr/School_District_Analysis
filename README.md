@@ -36,10 +36,10 @@ Updated School Summary
 
 **How does replacing the ninth-grade scores affect the following:**
 
-- Math and Reading Scores by Grade:     only the scores received by Thomas High 9th graders were changed
-- Scores by School Spending:            Unaffected
-- Scores by School Size:                Unaffected
-- Scores by School Type:                Unaffected
+- **Math and Reading Scores by Grade:**     only the scores received by Thomas High 9th graders were changed
+- **Scores by School Spending:**            Unaffected
+- **Scores by School Size:**                Unaffected
+- **Scores by School Type:**                Unaffected
 
 
 ## Summary
