@@ -12,26 +12,23 @@ After successfully helping Maria analyze the data, she is notified by the school
 
 **How is the district summary affected?**
 
-- The district summary is only slightly affected. Specifically, the **Average Math Score** decreased by 0.1 points, the **% Passing Math** decreased by 0.2%, the **% Passing Reading** decreased by 0.3%, and the **% Overall Passing** decreased by 0.1%.
+- The district summary is only slightly affected. Specifically, the **Average Math Score** decreased by 0.1 points, the **% Passing Math** decreased by 0.2%, the **% Passing Reading** decreased by 0.3%, and the **% Overall Passing** decreased by 0.1%.  
 
-<br>
 Original District Summary
-![Original District Summary](https://github.com/dharlerjr/School_District_Analysis/blob/main/Resources/Images/01_Original_District_Summary.png)
+![Original District Summary](https://github.com/dharlerjr/School_District_Analysis/blob/main/Resources/Images/01_Original_District_Summary.png)  
 
-<br>
 Updated District Summary
-![Original District Summary](https://github.com/dharlerjr/School_District_Analysis/blob/main/Resources/Images/10_Updated_District_Summary.png)
+![Original District Summary](https://github.com/dharlerjr/School_District_Analysis/blob/main/Resources/Images/10_Updated_District_Summary.png)  
 
-<br>
 **How is the school summary affected?**
 
-- As expected, the only row of the school summary that was affected is the **Thomas High School** row.
+- As expected, the only row of the school summary that was affected is the **Thomas High School** row.  
 
 Original School Summary
-![Original District Summary](https://github.com/dharlerjr/School_District_Analysis/blob/main/Resources/Images/02_Original_School_Summary.png)
+![Original District Summary](https://github.com/dharlerjr/School_District_Analysis/blob/main/Resources/Images/02_Original_School_Summary.png)  
 
 Updated School Summary
-![Original District Summary](https://github.com/dharlerjr/School_District_Analysis/blob/main/Resources/Images/11_Updated_School_Summary.png)
+![Original District Summary](https://github.com/dharlerjr/School_District_Analysis/blob/main/Resources/Images/11_Updated_School_Summary.png)  
 
 **How does replacing ninth graders' math and reading scores affect Thomas High School's performance relative to the other schools?**
 
